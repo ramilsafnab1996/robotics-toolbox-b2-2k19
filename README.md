@@ -4,6 +4,8 @@
 
 Follow the link to the [Robotics Toolbox official website](https://petercorke.com/wordpress/toolboxes/robotics-toolbox) to get instructions on how to install it.
 
+**Note.** Install Robotics Toolbox with version 10.3.1.
+
 In short, there are two ways to install Robotics Toolbox:
 
 - **[preferred]** from within the MATLAB (`*.mltbx` file)

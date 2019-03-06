@@ -65,3 +65,17 @@ trplot(eul2r(zyz_angles), 'frame', 'zyz', 'color', 'b');
 
 axis equal;
 hold off;
+
+
+%% create a rotation matrix using roll-pitch-yaw
+
+RPY = rpy2r(60, 45, 0)
+
+trplot(RPY, 'frame', '1', 'color', 'g');
+
+hold on;
+
+trplot(eye(3), 'frame', 'o', 'color', 'black')
+axis equal
+
+hold off;

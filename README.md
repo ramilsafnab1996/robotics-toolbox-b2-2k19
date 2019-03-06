@@ -19,5 +19,5 @@ In order to get started you need to clone this repository:
 git clone https://github.com/ramilsafnab1996/robotics-toolbox-b2-2k19.git
 ```
 
-or, alternatively, you can download it as [zip-archive](https://github.com/ramilsafnab1996/robotics-toolbox-b2-2k19/archive/master.zip).
+or, alternatively, you can download it as a [zip-archive](https://github.com/ramilsafnab1996/robotics-toolbox-b2-2k19/archive/master.zip).
 

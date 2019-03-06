@@ -30,6 +30,6 @@ or, alternatively, you can download it as a [zip-archive](https://github.com/ram
 In the [`Scripts`](Scripts) folder there are several demo files which will help you to get to know some of the Robotics Toolbox functionality. All the code is written in MATLAB. No other third-party library are used.
 
 There are scripts exposing the capabilities of Robotics Toolbox in the following topics:
-- 2D transformations
+- 2D and 3D transformations
 - Rotations
 - Robotic arm

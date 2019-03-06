@@ -1,4 +1,5 @@
 %% create a 3D rotation matrix
+clear;
 
 % rotation around Z-axis for 30 degrees
 Rz = rotz(30)

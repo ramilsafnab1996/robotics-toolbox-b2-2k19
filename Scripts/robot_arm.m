@@ -10,6 +10,8 @@
 %  - neck
 
 %% setup robot parameters
+clear;
+
 robotName         = 'Terminator T1000';
 robotManufacturer = 'LIRS';
 

@@ -1,4 +1,5 @@
-%% create the 2D transformation
+%% create a 2D transformation
+clear;
 
 % translation along X and Y axes for (1, 2) and rotation to 30 degrees
 T1 = SE2(1, 2, deg2rad(30)) % note that angle is specified in radians
@@ -9,7 +10,7 @@ T1 = SE2(1, 2, deg2rad(30)) % note that angle is specified in radians
 % T1 = SE2(1, 2, 30, 'deg')
 
 
-%% plot 2D transformation
+%% plot the 2D transformation
 
 % try to change the frame's name and its color
 trplot2(T1, 'frame', '1', 'color', 'b', 'axis', [0, 5, 0, 5]);

@@ -11,6 +11,8 @@ In short, there are two ways to install Robotics Toolbox:
 - **[preferred]** from within the MATLAB (`*.mltbx` file)
 - and by downloading, unpacking, etc. zip-archive
 
+![Robotics Toolbox installation](assets/Robotics Toolobx installation options.png)
+
 **Note.** You are already provided with Robotics Toolbox in MATLAB toolbox format (see [`Libs`](/Libs) folder).
 
 ## Download
